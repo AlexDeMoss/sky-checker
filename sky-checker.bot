@@ -1,0 +1,18 @@
+{
+    "name": "sky-checker",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1b84f4b0-b34e-11e9-96b1-d9369fa3f8fe",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "X:\\Documents\\Projects\\myJsBots\\sky-checker\\sky-checker.bot"
+}
